@@ -1,0 +1,90 @@
+﻿  BnakProject.cpp
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsDate.h(1133,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsDate.h(1135,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsDate.h(1137,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsDate.h(1145,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsDate.h(1147,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsDate.h(1149,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsUser.h(282,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BnakProject.cpp')
+      C:\Users\USER\source\repos\BnakProject\BnakProject\clsUser.h(18,13):
+      see declaration of 'clsUser::stLoginInfo'
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(503,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BnakProject.cpp')
+      C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(13,12):
+      see declaration of 'clsBankClient::stTransferInfo'
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(439,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(446,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(458,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsTransferScreen.h(37,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsTransferScreen.h(42,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsTotalBalancesScreen.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsUpdateCurrencyScreen.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsCurrencyCalculatorScreen.h(33,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BnakProject.cpp')
+  
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsBankClient.h(385,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsUser.h(357,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\USER\source\repos\BnakProject\BnakProject\clsFindCurrencyScreen.h(56,1): warning C4715: 'clsFindCurrencyScreen::_Find': not all control paths return a value
+  BnakProject.vcxproj -> C:\Users\USER\source\repos\BnakProject\x64\Debug\BnakProject.exe
